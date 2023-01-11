@@ -1,3 +1,30 @@
+@media only screen and (max-width: 415px) {
+  body {
+    background-color: lightblue;
+  }
+
+body{
+  background-color: #66AFA9; 
+  background-image: linear-gradient(to bottom right, #66AFA9, #71B27D);
+}
+
+.artikel{
+  float: right;
+  position: relative;
+  right: 100;
+  color:white;
+  width: 300px;
+}
+
+#lijn{
+  border: 1px solid white;
+}
+
+#planning{
+  background-color: #FFF;
+  color: #000;
+}
+
 .top_nav{
     background-color: #66AFA9; 
     background-image: linear-gradient(to bottom right, #66AFA9, #71B27D);
@@ -10,6 +37,23 @@
     bottom: 45;
     left: 105;
 }
+
+nav{
+  position: relative;
+  bottom: 50;
+  left:100;
+}
+
+.nav-button{
+  border: #000;
+  border-style: solid;
+  border-radius: 50%;
+  border-width: 0.1px;
+  float: left; 
+
+}
+
+
 
 
 /*hamburger menu */
@@ -140,6 +184,5 @@
 }
 
 
-body{
-    background-col: #000;
+
 }

@@ -14,17 +14,18 @@
     </ul>
         </div>
     </div>  
+   <div>
         <img  class="nav_logo " src="./assets/images/aventusLogo.png">
+</div>
     <nav>
-        <div id="nav-button">
+        <div class="nav-button">
             <img style="width: 50px;" src="./assets/images/agendalogo.png" alt="">
         </div>    
-        <div id="nav-button">
+        <div class="nav-button">
             <img style="width: 50px;" src="./assets/images/foldericon.jpg" alt="">
         </div>    
-        <div id="nav-button">
+        <div class="nav-button">
         <img style="width: 50px;" src="./assets/images/paperplane.png" alt="">
         </div>    
-
-    </nav>    
+</nav>    
 </div>
